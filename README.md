@@ -1,7 +1,7 @@
 # Clean Typescript Node API
 API REST desenvolvido em Node/Typescript utilizando os concenceitos de Clean Architecture
 
-## Descriptions Layers
+## Description's Layers
  
 <b>entities</b> => Vai conter todos as entidades da aplicação </br>
 <b>gateways</b> => vai conter todos os contratos/interfaces que a camada de usecase vai precisar. Isso é para que a camada de usecase dependa de uma abstração e não de uma implementação.</br>
